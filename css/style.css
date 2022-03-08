@@ -1,0 +1,84 @@
+
+body{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  background:black
+}
+
+
+input{
+    background-color: white;
+    color: black;
+    padding:17px;
+    outline:none;
+    font-size: 30px;
+    border-radius: 25%;
+}
+
+.maincolor{
+  background-color: white;
+  color: black;
+}
+
+.num{
+  width: 64px;
+  height: 67px;
+}
+
+.form1{
+    border-radius: 5%;
+    background-color: white;
+    padding:17px;
+}
+
+.text{
+  width: 160px;
+  height: 26px;
+  border-radius: 22px;
+  letter-spacing: 5px;
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+.text1{
+  width: 24px;
+  height: 26px;
+  border-radius: 22px;
+  letter-spacing: 5px;
+  text-align: center;
+  margin-bottom:12px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.main{
+  display: inline-block;
+}
+
+.blue{
+  background-color:rgb(85, 153, 255);
+  color: black;
+}
+
+.pin{
+  background-color:white;
+  color: black;
+}
+
+.gre{
+  background-color:white;
+  color: black;
+}
+
+.pur{
+    background-color:rgb(177, 97, 97);
+    color: black;
+}
+
+.ora{
+  background-color:rgb(85, 153, 255);
+  color: black;
+}
